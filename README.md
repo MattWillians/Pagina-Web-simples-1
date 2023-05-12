@@ -10,6 +10,7 @@ O HTML é uma Linguagem de marcação textual usada para estruturar paginas WEB.
 
 as tags HTML são criadas usando o sinal de "menor que" ( < ) em seguida o nome da tag, e por fim, o sinal de "maior que" ( > ) e o final da tag é dado da mesma forma, porem, antas do seu nome é dado com uma barra "/", porem isso não é necessario em tags que possuem self-closing (auto-fechamento)
 
+ ```
  <!--Tag que precisa de fechamento--> <-- COMENTARIO EM HTML
      
          <h1>Olá Mundo!</h1>
@@ -105,6 +106,8 @@ Mesma função do span, a diferença é que o <b> deixa o texto em negrito
 
 4. <i>
 deixa o texto em questão em italico
+```
+
 
 
 
